@@ -106,6 +106,16 @@ sections:
           linktext: Unlock Potential!
           url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-5-ascension-portal/
   - infopic:
+      title: Start Your Adventure!
+      subtitle: Option B
+      id: infopic
+      description: Register now to step into the Career XP world, complete challenges,
+        and power up your career journey!
+      button: Unlock Access!
+      url: https://careershorizon.mycareersfuture.gov.sg/
+      image: /images/cta.jpg
+      alt: Image alt text
+  - infopic:
       title: Apprentice Guild
       subtitle: Level 1 - Welcome / Tutorial
       id: infopic
@@ -155,11 +165,4 @@ sections:
       url: https://careershorizon.mycareersfuture.gov.sg/
       image: /images/level_5.jpg
       alt: Image alt text
-  - infobar:
-      title: Start Your Adventure!
-      id: infobar
-      description: Register now to step into the Career XP world, complete challenges,
-        and power up your career journey!
-      button: Unlock Access
-      url: https://careershorizon.mycareersfuture.gov.sg/
 ---
