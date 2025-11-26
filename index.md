@@ -17,7 +17,7 @@ sections:
       key_highlights:
         - title: About Us
           description: Know Your Quest Guides
-          url: https://google.com
+          url: /about-us/
         - title: The Game Plan
           description: Your XP Adventure Plan
           url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-1-apprentice-guild/
