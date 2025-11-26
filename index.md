@@ -27,9 +27,14 @@ sections:
         - title: Level 4 - Boss Battle
           description: the Arena
           url: ""
-  - infobar:
-      title: Level 5 - Finale / Celebration
-      description: Ascension Portal
-      button: Let's GO
-      url: /faq/
+  - infopic:
+      title: Apprentice Guild
+      subtitle: Level 1 - Welcome / Tutorial
+      id: infopic
+      description: Begin your career adventure! Learn the basics, complete your first
+        challenges, and start earning XP as you unlock your potential
+      button: Start Now
+      url: https://careershorizon.mycareersfuture.gov.sg/
+      image: /images/Level_1.jpg
+      alt: Image alt text
 ---
