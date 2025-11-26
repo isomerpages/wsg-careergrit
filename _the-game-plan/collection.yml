@@ -2,8 +2,8 @@ collections:
   the-game-plan:
     output: true
     order:
-      - "Level 5: Ascension Portal.md"
-      - "Level 4: The Arena.md"
-      - "Level 3: Knowledge Barracks.md"
-      - "Level 2:  Mentorship Hive.md"
       - "Level 1: Apprentice Guild.md"
+      - "Level 2:  Mentorship Hive.md"
+      - "Level 3: Knowledge Barracks.md"
+      - "Level 4: The Arena.md"
+      - "Level 5: Ascension Portal.md"
