@@ -58,7 +58,7 @@ sections:
       description: Begin your career adventure! Learn the basics, complete your first
         challenges, and start earning XP as you unlock your potential
       button: Start Now
-      url: https://careershorizon.mycareersfuture.gov.sg/
+      url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-1-apprentice-guild/
       image: /images/Level_1.jpg
       alt: Image alt text
   - infopic:
@@ -68,7 +68,7 @@ sections:
       description: Connect with mentors, gain guidance, and tackle new challenges.
         Earn XP as you apply lessons and grow your career skills.
       button: Let's go!
-      url: https://careershorizon.mycareersfuture.gov.sg/
+      url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-2-mentorship-hive/
       image: /images/Level_2.jpg
       alt: Image alt text
   - infopic:
@@ -78,7 +78,7 @@ sections:
       description: Explore new skills and challenges, unlock hidden insights, and earn
         XP as you expand your career knowledge and abilities.
       button: Level Up!
-      url: https://careershorizon.mycareersfuture.gov.sg/
+      url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-3-knowledge-barracks/
       image: /images/level_3.jpg
       alt: Image alt text
   - infopic:
@@ -88,7 +88,7 @@ sections:
       description: Step into the arena, tackle tough challenges, and gain XP as you
         demonstrate your skills and rise to the next level
       button: Game On!
-      url: https://careershorizon.mycareersfuture.gov.sg/
+      url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-4-the-arena/
       image: /images/level_4.jpg
       alt: Image alt text
   - infopic:
@@ -98,7 +98,7 @@ sections:
       description: Reach the pinnacle! Complete final challenges, unlock ultimate
         rewards, and showcase your mastery to ascend your career path.
       button: Unlock Potential!
-      url: https://careershorizon.mycareersfuture.gov.sg/
+      url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-5-ascension-portal/
       image: /images/level_5.jpg
       alt: Image alt text
 ---
