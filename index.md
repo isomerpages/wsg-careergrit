@@ -20,7 +20,7 @@ sections:
           url: https://google.com
         - title: The Game Plan
           description: Your XP Adventure Plan
-          url: https://gmail.com
+          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-1-apprentice-guild/
         - title: Getting Here
           description: Start Your Adventure
           url: /privacy/
