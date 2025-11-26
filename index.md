@@ -80,21 +80,31 @@ sections:
       cards:
         - title: Level 1 - Apprentice Guild
           description: ""
-          linktext: Learn more
+          linktext: I'm Ready!
           url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-1-apprentice-guild/
         - title: Level 2 - Mentorship Hive
           description: ""
-          linktext: Learn more
+          linktext: Let's go!
           url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-2-mentorship-hive/
         - title: Level 3 - Knowledge Barracks
           description: ""
-          linktext: Learn more
+          linktext: Level Up!
           url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-3-knowledge-barracks/
         - title: Level 4 - The Arena
           description: ""
-          linktext: Learn more
+          linktext: Game On!
           url: ""
       subtitle: Option A
+  - textcards:
+      title: The Finale
+      id: textcards
+      description: Reach the pinnacle! Complete final challenges, unlock ultimate
+        rewards, and showcase your mastery to ascend your career path.
+      cards:
+        - title: Level 5 - Ascension Portal
+          description: ""
+          linktext: Unlock Potential!
+          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-5-ascension-portal/
   - infopic:
       title: Apprentice Guild
       subtitle: Level 1 - Welcome / Tutorial
