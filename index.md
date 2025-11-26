@@ -36,6 +36,29 @@ sections:
       url: https://careershorizon.mycareersfuture.gov.sg/
       image: /images/Gameplan.jpg
       alt: Image alt text
+  - textcards:
+      title: The Game Plan
+      id: textcards
+      description: Follow your quest roadmap to explore zones, conquer challenges, and
+        earn XP as you level up through each stage of the event.
+      cards:
+        - title: Level 1 - Apprentice Guild
+          description: ""
+          linktext: Learn more
+          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-1-apprentice-guild/
+        - title: Level 2 - Mentorship Hive
+          description: ""
+          linktext: Learn more
+          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-2-mentorship-hive/
+        - title: Level 3 - Knowledge Barracks
+          description: ""
+          linktext: Learn more
+          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-3-knowledge-barracks/
+        - title: Level 4 - The Arena
+          description: ""
+          linktext: Learn more
+          url: ""
+      subtitle: Option A
   - infopic:
       title: Apprentice Guild
       subtitle: Level 1 - Welcome / Tutorial
@@ -86,26 +109,4 @@ sections:
       url: https://careershorizon.mycareersfuture.gov.sg/
       image: /images/level_5.jpg
       alt: Image alt text
-  - textcards:
-      title: The Game Plan
-      id: textcards
-      description: Follow your quest roadmap to explore zones, conquer challenges, and
-        earn XP as you level up through each stage of the event.
-      cards:
-        - title: Level 1 - Apprentice Guild
-          description: ""
-          linktext: Learn more
-          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-1-apprentice-guild/
-        - title: Level 2 - Mentorship Hive
-          description: ""
-          linktext: Learn more
-          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-2-mentorship-hive/
-        - title: Level 3 - Knowledge Barracks
-          description: ""
-          linktext: Learn more
-          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-3-knowledge-barracks/
-        - title: Level 4 - The Arena
-          description: ""
-          linktext: Learn more
-          url: ""
 ---
