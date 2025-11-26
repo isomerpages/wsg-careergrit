@@ -155,4 +155,11 @@ sections:
       url: https://careershorizon.mycareersfuture.gov.sg/
       image: /images/level_5.jpg
       alt: Image alt text
+  - infobar:
+      title: Start Your Adventure!
+      id: infobar
+      description: Register now to step into the Career XP world, complete challenges,
+        and power up your career journey!
+      button: Unlock Access
+      url: https://careershorizon.mycareersfuture.gov.sg/
 ---
