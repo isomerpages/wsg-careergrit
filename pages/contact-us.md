@@ -2,31 +2,24 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Workforce Singapore
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 1 Paya Lebar Link
+      - "#08-08 PLQ 2 Paya Lebar Quarter"
+      - Singapore 408533
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 8.30am - 5.30pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: ""
+    title: Main Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6883 5885
+      - email: ""
+      - other: "Office and Call Centre Operating Hours Monday - Friday: 8:30am to 5:30pm
+          Saturday, Sunday & Public Holidays Closed"
+    title: General Enquiries & Feedback
+feedback: ""
 ---
