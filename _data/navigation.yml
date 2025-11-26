@@ -1,8 +1,19 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: About Us
+    url: /permalink
+  - title: The Game Plan
+    url: /permalink
+    sublinks:
+      - title: Level 1 - Apprentice Guild
+        url: /level1
+      - title: Level 2 - Mentorship Hive
+        url: /level2
+      - title: Level 3 - Knowledge Barracks
+        url: /level3
+      - title: Level 4 - The Arena
+        url: /level4
+      - title: Level 5 - Ascension Portal
+        url: /level5
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
