@@ -1,4 +1,5 @@
 collections:
   the-game-plan:
     output: true
-    order: []
+    order:
+      - "Level 1: Apprentice Guild.md"
