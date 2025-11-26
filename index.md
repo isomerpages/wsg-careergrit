@@ -20,7 +20,7 @@ sections:
           url: /about-us/
         - title: The Game Plan
           description: Your XP Adventure Plan
-          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-1-apprentice-guild/
+          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/the-game-plan/
         - title: Getting Here
           description: Start Your Adventure
           url: /privacy/
@@ -33,7 +33,7 @@ sections:
         touchpoints, and complete quests in any order to discover all activities
         and content.
       button: I am ready!
-      url: https://careershorizon.mycareersfuture.gov.sg/
+      url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/the-game-plan/
       image: /images/Gameplan.jpg
       alt: Image alt text
   - infobar:
