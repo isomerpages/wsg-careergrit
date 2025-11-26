@@ -42,67 +42,8 @@ sections:
       id: infobar
       description: Your adventure awaits! Join us 21 Jan–25 Jun 2026, 10 AM–7 PM, at
         Suntec City Towers 3 & 4
-  - announcements:
-      title: Suntec City Tower 3 & 4
-      id: announcements
-      subtitle: Hero’s Call to Action
-      announcement_items:
-        - title: Day 2
-          date: 22 January 2026
-          announcement: 10 AM–7 PM
-          link_text: ""
-          link_url: ""
-        - title: Day 3
-          date: 23 January 2026
-          announcement: 10 AM–7 PM
-          link_text: ""
-          link_url: ""
-        - title: Day 4
-          date: 24 January 2026
-          announcement: 10 AM–7 PM
-          link_text: ""
-          link_url: ""
-        - title: Day 5
-          date: 25 January 2026
-          announcement: 10AM - 7PM
-          link_text: ""
-          link_url: ""
-  - textcards:
-      title: The Game Plan
-      id: textcards
-      description: Follow your quest roadmap to explore zones, conquer challenges, and
-        earn XP as you level up through each stage of the event.
-      cards:
-        - title: Level 1 - Apprentice Guild
-          description: ""
-          linktext: I'm Ready!
-          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-1-apprentice-guild/
-        - title: Level 2 - Mentorship Hive
-          description: ""
-          linktext: Let's go!
-          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-2-mentorship-hive/
-        - title: Level 3 - Knowledge Barracks
-          description: ""
-          linktext: Level Up!
-          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-3-knowledge-barracks/
-        - title: Level 4 - The Arena
-          description: ""
-          linktext: Game On!
-          url: ""
-      subtitle: Option A
-  - textcards:
-      title: The Finale
-      id: textcards
-      description: Reach the pinnacle! Complete final challenges, unlock ultimate
-        rewards, and showcase your mastery to ascend your career path.
-      cards:
-        - title: Level 5 - Ascension Portal
-          description: ""
-          linktext: Unlock Potential!
-          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-5-ascension-portal/
   - infopic:
       title: Start Your Adventure!
-      subtitle: Option B
       id: infopic
       description: Register now to step into the Career XP world, complete challenges,
         and power up your career journey!
