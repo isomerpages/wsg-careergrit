@@ -28,6 +28,17 @@ sections:
           description: the Arena
           url: ""
   - infopic:
+      title: THE GAME PLAN
+      subtitle: The GAME PLAN
+      id: infopic
+      description: Explore the event site freely! Navigate clear zones, interact with
+        touchpoints, and complete quests in any order to discover all activities
+        and content.
+      button: I am ready!
+      url: https://careershorizon.mycareersfuture.gov.sg/
+      image: /images/Gameplan.jpg
+      alt: Image alt text
+  - infopic:
       title: Apprentice Guild
       subtitle: Level 1 - Welcome / Tutorial
       id: infopic
@@ -36,5 +47,15 @@ sections:
       button: Start Now
       url: https://careershorizon.mycareersfuture.gov.sg/
       image: /images/Level_1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Mentorship Hive
+      subtitle: Level 2 - Mentor Encounter
+      id: infopic
+      description: Connect with mentors, gain guidance, and tackle new challenges.
+        Earn XP as you apply lessons and grow your career skills.
+      button: Let's go!
+      url: https://careershorizon.mycareersfuture.gov.sg/
+      image: /images/Level_2.jpg
       alt: Image alt text
 ---
