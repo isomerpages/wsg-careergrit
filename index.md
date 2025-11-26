@@ -47,11 +47,6 @@ sections:
       id: announcements
       subtitle: Hero’s Call to Action
       announcement_items:
-        - title: Day 1
-          date: 21 January 2026
-          announcement: 10 AM–7 PM
-          link_text: ""
-          link_url: ""
         - title: Day 2
           date: 22 January 2026
           announcement: 10 AM–7 PM
