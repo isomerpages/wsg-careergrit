@@ -2,6 +2,7 @@ collections:
   the-game-plan:
     output: true
     order:
+      - The Game Plan.md
       - "Level 1: Apprentice Guild.md"
       - "Level 2:  Mentorship Hive.md"
       - "Level 3: Knowledge Barracks.md"
