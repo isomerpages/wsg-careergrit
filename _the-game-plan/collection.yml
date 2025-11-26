@@ -2,4 +2,5 @@ collections:
   the-game-plan:
     output: true
     order:
+      - "Level 2:  Mentorship Hive.md"
       - "Level 1: Apprentice Guild.md"
