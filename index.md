@@ -36,6 +36,12 @@ sections:
       url: https://careershorizon.mycareersfuture.gov.sg/
       image: /images/Gameplan.jpg
       alt: Image alt text
+  - infobar:
+      title: Arena Broadcasts
+      subtitle: Hero’s Call to Action
+      id: infobar
+      description: Your adventure awaits! Join us 21 Jan–25 Jun 2026, 10 AM–7 PM, at
+        Suntec City Towers 3 & 4
   - textcards:
       title: The Game Plan
       id: textcards
