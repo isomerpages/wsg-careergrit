@@ -58,4 +58,24 @@ sections:
       url: https://careershorizon.mycareersfuture.gov.sg/
       image: /images/Level_2.jpg
       alt: Image alt text
+  - infopic:
+      title: Knowledge Barracks
+      subtitle: Level 3 - Explore the World
+      id: infopic
+      description: Explore new skills and challenges, unlock hidden insights, and earn
+        XP as you expand your career knowledge and abilities.
+      button: Level Up!
+      url: https://careershorizon.mycareersfuture.gov.sg/
+      image: /images/level_3.jpg
+      alt: Image alt text
+  - infopic:
+      title: The Arena
+      subtitle: Level 4 - Boss Battle
+      id: infopic
+      description: Step into the arena, tackle tough challenges, and gain XP as you
+        demonstrate your skills and rise to the next level
+      button: Game On!
+      url: https://careershorizon.mycareersfuture.gov.sg/
+      image: /images/level_4.jpg
+      alt: Image alt text
 ---
