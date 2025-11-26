@@ -78,4 +78,14 @@ sections:
       url: https://careershorizon.mycareersfuture.gov.sg/
       image: /images/level_4.jpg
       alt: Image alt text
+  - infopic:
+      title: Ascension Portal
+      subtitle: Level 5 - The Finale
+      id: infopic
+      description: Reach the pinnacle! Complete final challenges, unlock ultimate
+        rewards, and showcase your mastery to ascend your career path.
+      button: Unlock Potential!
+      url: https://careershorizon.mycareersfuture.gov.sg/
+      image: /images/level_5.jpg
+      alt: Image alt text
 ---
