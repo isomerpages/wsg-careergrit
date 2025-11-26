@@ -4,29 +4,32 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. For more information, visit
+  https://www.scamshield.gov.sg/
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Career XP
+      subtitle: An initative by Workforce Singapore
+      background: /images/hero-banner.png
+      button: Exclusive for the Graduate
+      url: https://careershorizon.mycareersfuture.gov.sg/
+      key_highlights:
+        - title: Level 1 - Welcome / Tutorial
+          description: Apprentice Guild
+          url: https://google.com
+        - title: Level 2 - Mentor Encounter
+          description: Mentorship Hive
+          url: https://gmail.com
+        - title: Level 3 - Explore the World
+          description: Knowledge Barracks
+          url: /privacy/
+        - title: Level 4 - Boss Battle
+          description: the Arena
+          url: ""
+  - infobar:
+      title: Level 5 - Finale / Celebration
+      description: Ascension Portal
+      button: Let's GO
+      url: /faq/
 ---
-
