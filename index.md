@@ -15,18 +15,16 @@ sections:
       button: Exclusive for the Graduate
       url: https://careershorizon.mycareersfuture.gov.sg/
       key_highlights:
-        - title: Level 1 - Welcome / Tutorial
-          description: Apprentice Guild
+        - title: About Us
+          description: Know Your Quest Guides
           url: https://google.com
-        - title: Level 2 - Mentor Encounter
-          description: Mentorship Hive
+        - title: The Game Plan
+          description: Your XP Adventure Plan
           url: https://gmail.com
-        - title: Level 3 - Explore the World
-          description: Knowledge Barracks
+        - title: Getting Here
+          description: Start Your Adventure
           url: /privacy/
-        - title: Level 4 - Boss Battle
-          description: the Arena
-          url: ""
+      variant: center
   - infopic:
       title: THE GAME PLAN
       subtitle: The GAME PLAN
@@ -88,4 +86,26 @@ sections:
       url: https://careershorizon.mycareersfuture.gov.sg/
       image: /images/level_5.jpg
       alt: Image alt text
+  - textcards:
+      title: The Game Plan
+      id: textcards
+      description: Follow your quest roadmap to explore zones, conquer challenges, and
+        earn XP as you level up through each stage of the event.
+      cards:
+        - title: Level 1 - Apprentice Guild
+          description: ""
+          linktext: Learn more
+          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-1-apprentice-guild/
+        - title: Level 2 - Mentorship Hive
+          description: ""
+          linktext: Learn more
+          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-2-mentorship-hive/
+        - title: Level 3 - Knowledge Barracks
+          description: ""
+          linktext: Learn more
+          url: https://staging-lite.d1t55kbpxwkoea.amplifyapp.com/level-3-knowledge-barracks/
+        - title: Level 4 - The Arena
+          description: ""
+          linktext: Learn more
+          url: ""
 ---
