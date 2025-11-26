@@ -42,6 +42,36 @@ sections:
       id: infobar
       description: Your adventure awaits! Join us 21 Jan–25 Jun 2026, 10 AM–7 PM, at
         Suntec City Towers 3 & 4
+  - announcements:
+      title: Suntec City Tower 3 & 4
+      id: announcements
+      subtitle: Hero’s Call to Action
+      announcement_items:
+        - title: Day 1
+          date: 21 January 2026
+          announcement: 10 AM–7 PM
+          link_text: ""
+          link_url: ""
+        - title: Day 2
+          date: 22 January 2026
+          announcement: 10 AM–7 PM
+          link_text: ""
+          link_url: ""
+        - title: Day 3
+          date: 23 January 2026
+          announcement: 10 AM–7 PM
+          link_text: ""
+          link_url: ""
+        - title: Day 4
+          date: 24 January 2026
+          announcement: 10 AM–7 PM
+          link_text: ""
+          link_url: ""
+        - title: Day 5
+          date: 25 January 2026
+          announcement: 10AM - 7PM
+          link_text: ""
+          link_url: ""
   - textcards:
       title: The Game Plan
       id: textcards
